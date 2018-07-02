@@ -1,0 +1,7 @@
+Cargo.lock
+.vscode/*
+.vscode
+/target
+**/*.rs.bk
+nppBackup
+nppBackup/*

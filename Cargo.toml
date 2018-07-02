@@ -1,0 +1,8 @@
+[package]
+name = "third_gui"
+version = "0.1.0"
+authors = ["thatSteveFan <pramukh.naduthota@gmail.com>"]
+
+[dependencies]
+glium = "*"
+image = "*"
